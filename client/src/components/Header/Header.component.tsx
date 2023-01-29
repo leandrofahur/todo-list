@@ -1,3 +1,4 @@
+import React from "react";
 import { HeaderContainer } from "./Header.styled";
 
 export function Header() {
